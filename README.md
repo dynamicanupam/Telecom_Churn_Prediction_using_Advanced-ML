@@ -25,7 +25,8 @@ In this project, we will use the usage-based definition to define churn.
 
 We used the CRISP framework for building the model. We did following steps
 
-![image](https://github.com/dynamicanupam/Telecom-Churn-Prediction/assets/61014822/23dfd1c4-2863-4be7-8932-d384da38b40c)
+![image](https://github.com/user-attachments/assets/57d73ece-d223-4535-a08b-b7457f7c4abd)
+
 
 1. Importing the required libraries and reading the dataset.
 2. Inspecting and cleaning up the data
